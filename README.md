@@ -13,7 +13,7 @@ Bjarne Stroustrup created C++, which is an extension of the C programming langua
 
 Guido Van Rossum developed Python, which is a simplified computer language that is easy to read
 
-## 1991 VISUAL BASIC
+## 1991 Visual Basic
 
 Microsoft developed Visual Basic, which enabled programmers to select and change specific chunks of code with a drag-and-drop process
 
@@ -29,7 +29,7 @@ Rasmus Lerdorf developed PHP, mainly for Web development. PHP continues to be wi
 
 Yukihiro Matsumoto developed Ruby as an all-purpose programming language, ideal for many programming jobs. Ruby is widely used in the development of Web applications
 
-## 1995 JAVASCRIPT
+## 1995 JavaScript
 
 Brendan Eich developed JavaScript to enhance Web browser interactions
 
@@ -45,6 +45,6 @@ Martin Odersky created Scala as a programing language that combines aspects of f
 
 Google developed Go to solve issues that commonly occur with large software systems
 
-## 2014 SWIFT
+## 2014 Swift
 
 Apple developed Swift to replace C, C++, and Objective-C
