@@ -1,9 +1,21 @@
 Programming Language Timeline
 ===
 
+History of programming languages
+
+## 1972 C
+
+<img src="./author/Dennis_Ritchie_2011.jpg" width="180" alt="Dennis Ritchie" />
+
+C is a general-purpose programming language. It was created in the 1970s by Dennis Ritchie and remains very widely used and influential.
+
 ## 1983 Objective-C
 
 Brad Cox and Tom Love created Objective-C as the main language used for writing Apple software
+
+## 1986 Erlang
+
+[Erlang](https://www.erlang.org/) is a general-purpose, concurrent, functional high-level programming language, and a garbage-collected runtime system.
 
 ## 1983 C++
 
