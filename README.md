@@ -37,7 +37,7 @@ Bjarne Stroustrup created C++, which is an extension of the C programming langua
 
 Guido Van Rossum developed [Python](https://www.python.org/), which is a simplified computer language that is easy to read
 
-## `1991` Visual Basic
+## `1991` [Visual Basic](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation)
 
 <img src="./author/AlanCooper.jpg" width="180" alt="Alan Cooper" />
 
