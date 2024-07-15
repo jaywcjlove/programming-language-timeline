@@ -107,7 +107,7 @@ Kotlin is a cross-platform, statically typed, general-purpose high-level program
 
 [TypeScript](https://www.typescriptlang.org/) is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript.
 
-## <img src="./logo/swift.svg" width="23" alt="Anders Hejlsberg" /> `2014` [Swift](https://www.swift.org/)
+## `2014` [Swift](https://www.swift.org/)
 
 Apple developed Swift to replace C, C++, and Objective-C
 
