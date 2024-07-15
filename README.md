@@ -3,6 +3,12 @@ Programming Language Timeline
 
 History of programming languages
 
+## `1957` [Fortran](https://fortran-lang.org/)
+
+<img src="./author/John_Backus.jpg" width="180" alt="John Backus" />
+
+Fortran is a third generation, compiled, imperative programming language that is especially suited to numeric computation and scientific computing.
+
 ## `1972` [C](https://www.open-std.org/jtc1/sc22/wg14/)
 
 <img src="./author/Dennis_Ritchie_2011.jpg" width="180" alt="Dennis Ritchie" />
@@ -81,7 +87,15 @@ Martin Odersky created Scala as a programing language that combines aspects of f
 
 ## `2009` [GO](https://go.dev/)
 
+<img src="./author/Robert_Griesemer.jpg" width="180" alt="Robert Griesemer" />
+<img src="./author/Rob-pike-oscon.jpg" width="180" alt="Rob Pike" />
+<img src="./author/Brian_Kernighan_and_Ken_Thompson.jpg" width="180" alt="Brian Kernighan (left)" />
+
 Google developed Go to solve issues that commonly occur with large software systems
+
+## `2011` [Kotlin](https://kotlinlang.org/)
+
+Kotlin is a cross-platform, statically typed, general-purpose high-level programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. 
 
 ## `2012` [TypeScript](https://www.typescriptlang.org/)
 
