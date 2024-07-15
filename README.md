@@ -87,9 +87,7 @@ Martin Odersky created Scala as a programing language that combines aspects of f
 
 ## `2009` [GO](https://go.dev/)
 
-<img src="./author/Robert_Griesemer.jpg" width="180" alt="Robert Griesemer" />
-<img src="./author/Rob-pike-oscon.jpg" width="180" alt="Rob Pike" />
-<img src="./author/Brian_Kernighan_and_Ken_Thompson.jpg" width="180" alt="Brian Kernighan (left)" />
+<img src="./author/Robert_Griesemer.jpg" width="180" alt="Robert Griesemer" /><img src="./author/Rob-pike-oscon.jpg" width="180" alt="Rob Pike" /><img src="./author/Brian_Kernighan_and_Ken_Thompson.jpg" width="180" alt="Brian Kernighan (left)" />
 
 Google developed Go to solve issues that commonly occur with large software systems
 
