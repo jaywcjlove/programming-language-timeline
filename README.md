@@ -13,11 +13,19 @@ C is a general-purpose programming language. It was created in the 1970s by Denn
 
 Brad Cox and Tom Love created Objective-C as the main language used for writing Apple software
 
+## `1987` Perl
+
+<img src="./author/Larry_Wall_YAPC_2007.jpg" width="180" alt="Larry Wall" />
+
+[Perl](https://www.perl.org/) was developed by Larry Wall in 1987 as a general-purpose Unix scripting language to make report processing easier.
+
 ## `1986` Erlang
 
 [Erlang](https://www.erlang.org/) is a general-purpose, concurrent, functional high-level programming language, and a garbage-collected runtime system.
 
 ## `1983` C++
+
+<img src="./author/Bjarne-stroustrup_2010.jpg" width="180" alt="Larry Wall" />
 
 Bjarne Stroustrup created C++, which is an extension of the C programming language. This is one of the most used languages in the world
 
