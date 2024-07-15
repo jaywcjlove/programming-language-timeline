@@ -3,13 +3,13 @@ Programming Language Timeline
 
 History of programming languages
 
-## `1972` C
+## `1972` [C](https://www.open-std.org/jtc1/sc22/wg14/)
 
 <img src="./author/Dennis_Ritchie_2011.jpg" width="180" alt="Dennis Ritchie" />
 
 C is a general-purpose programming language. It was created in the 1970s by Dennis Ritchie and remains very widely used and influential.
 
-## `1983` Objective-C
+## `1983` [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
 Brad Cox and Tom Love created Objective-C as the main language used for writing Apple software
 
@@ -25,7 +25,7 @@ Brad Cox and Tom Love created Objective-C as the main language used for writing 
 
 [Erlang](https://www.erlang.org/) is a general-purpose, concurrent, functional high-level programming language, and a garbage-collected runtime system.
 
-## `1983` C++
+## `1983` [C++](https://isocpp.org/)
 
 <img src="./author/Bjarne-stroustrup_2010.jpg" width="180" alt="Bjarne Stroustrup" />
 
@@ -43,7 +43,7 @@ Guido Van Rossum developed [Python](https://www.python.org/), which is a simplif
 
 Microsoft developed Visual Basic, which enabled programmers to select and change specific chunks of code with a drag-and-drop process
 
-## `1995` JAVA
+## `1995` [JAVA](http://java.com/)
 
 <img src="./author/James_Gosling_2008.jpg" width="180" alt="James Gosling" />
 
@@ -73,11 +73,13 @@ Brendan Eich developed JavaScript to enhance Web browser interactions
 
 Microsoft developed C# as a combination of C++ and Visual Basic. C# is similar to Java in some ways
 
-## `2003` Scala
+## `2003` [Scala](http://www.scala-lang.org/)
+
+<img src="./author/Mark_Odersky.jpg" width="180" alt="Martin Odersky" />
 
 Martin Odersky created Scala as a programing language that combines aspects of functional programming
 
-## `2009` GO
+## `2009` [GO](https://go.dev/)
 
 Google developed Go to solve issues that commonly occur with large software systems
 
@@ -87,10 +89,10 @@ Google developed Go to solve issues that commonly occur with large software syst
 
 [TypeScript](https://www.typescriptlang.org/) is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript.
 
-## `2014` Swift
+## `2014` [Swift](https://www.swift.org/)
 
 Apple developed Swift to replace C, C++, and Objective-C
 
-## `2015` Rust
+## `2015` [Rust](https://www.rust-lang.org/)
 
 Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency. 
