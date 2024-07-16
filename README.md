@@ -15,6 +15,12 @@ Fortran is a third generation, compiled, imperative programming language that is
 
 Lisp is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
 
+## `1978` [VisiCalc](http://danbricklin.com/visicalc.htm)
+
+<img src="./author/Bob_Frankston.jpg" width="180" alt="Bob Frankston" /><img src="./author/Dan_Bricklin.jpg" width="180" alt="Dan Bricklin" />
+
+VisiCalc ("visible calculator") is the first spreadsheet computer program for personal computers, originally released for the Apple II by VisiCorp on October 17, 1979. It is considered the killer application for the Apple II, turning the microcomputer from a hobby for computer enthusiasts into a serious business tool, and then prompting IBM to introduce the IBM PC two years later. More than 700,000 copies were sold in six years, and up to 1 million copies over its history.
+
 ## `1972` [C](https://www.open-std.org/jtc1/sc22/wg14/)
 
 <img src="./author/Dennis_Ritchie_2011.jpg" width="180" alt="Dennis Ritchie" />
