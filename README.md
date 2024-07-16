@@ -79,13 +79,13 @@ Rasmus Lerdorf developed PHP, mainly for Web development. PHP continues to be wi
 
 Yukihiro Matsumoto developed [Ruby](https://www.ruby-lang.org/en/) as an all-purpose programming language, ideal for many programming jobs. Ruby is widely used in the development of Web applications
 
-## `1995` JavaScript
+## `1995` [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 <img src="./author/Brendan_Eich_Mozilla_Foundation_official_photo.jpg" width="180" alt="Brendan Eich" />
 
 Brendan Eich developed JavaScript to enhance Web browser interactions
 
-## `2000` C#
+## `2000` [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 <img src="./author/Anders_Hejlsberg.jpg" width="180" alt="Anders Hejlsberg" />
 
