@@ -9,6 +9,12 @@ History of programming languages
 
 Fortran is a third generation, compiled, imperative programming language that is especially suited to numeric computation and scientific computing.
 
+## `1956` [Lisp](https://www-formal.stanford.edu/jmc/history/lisp/lisp.html)
+
+<img src="./author/John_McCarthy.jpg" width="180" alt="John McCarthy" />
+
+Lisp is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
+
 ## `1972` [C](https://www.open-std.org/jtc1/sc22/wg14/)
 
 <img src="./author/Dennis_Ritchie_2011.jpg" width="180" alt="Dennis Ritchie" />
@@ -61,7 +67,7 @@ Lua is a lightweight, high-level, multi-paradigm programming language designed p
 
 Sun Microsystems developed Java, originally intended to be used with hand-held devices
 
-## `1995` PHP
+## `1995` [PHP](https://www.php.net/)
 
 <img src="./author/Rasmus_Lerdorf_August_2014.jpg" width="180" alt="Rasmus Lerdorf" />
 
